@@ -1,0 +1,5 @@
+*.o
+mbed
+lib*.so
+lib*.a
+test-run
